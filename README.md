@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashrajpawar-dev
-- 👀 I’m interested in ...Application development and backend devolopment and machine learning 
+- 👀 I’m interested in ...Application development,backend devolopment and machine learning 
 - 🌱 I’m currently learning ...Javascript
 - 📫 How to reach me ...By email - yashrajpawar9604@gmail.com
 
