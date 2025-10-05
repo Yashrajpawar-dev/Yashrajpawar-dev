@@ -1,6 +1,5 @@
-# 👋 Hi there, I’m Yashraj Pawar
-
-<sub>It's amazing to have you here!</sub>
+# Hi there 👋
+I am **Yashraj Pawar** and it's amazing to have you here!
 
 - I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
 - Passionate about **backend development** and writing **clean, efficient code**.  
@@ -22,16 +21,16 @@
 
 ## 🛠️ Tech & Skills
 
-<div align="center">
+<div align="left">
 
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=222222&color=333333&height=18" />
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=222222&color=333333&height=18" />
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&height=25)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=25)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&height=25)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&height=25)  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&height=25)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&height=25)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&height=25)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&height=25)  
 
 </div>
 
