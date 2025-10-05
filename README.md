@@ -4,18 +4,21 @@ I am **Yashraj Pawar** and it's amazing to have you here!
 - I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
 - Passionate about **backend development** and writing **clean, efficient code**.  
 - Open to projects and gaining experience across all **Computer Science domains**.  
-- Currently exploring **System Design** and improving skills in **efficient testing**.  
 - I believe in **continuous learning**, **sharing knowledge**, and building software that makes a difference.  
 - Always experimenting with projects that combine **learning and practical experience**.  
 
 ---
 
-## 🌐 Connect with Me
+## My Socials
 
-- [LinkedIn](https://www.linkedin.com/in/yashraj-pawar-dev/)  
-- [X / Twitter](https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09)  
-- [Instagram](https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==)  
-- [Website](#) *(In Progress)*  
+<div align="left">
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-pawar-dev/)  
+- [![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==)  
+- [![Website](https://img.shields.io/badge/Website-In%20Progress-61dafb?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
+
+</div>
 
 ---
 
@@ -23,14 +26,14 @@ I am **Yashraj Pawar** and it's amazing to have you here!
 
 <div align="left">
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&height=25)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=25)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&height=25)  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&height=25)  
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&height=25)  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&height=25)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&height=25)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&height=25)  
+- ![Java](https://img.shields.io/badge/Java-61dafb?style=for-the-badge&logo=java&logoColor=white&height=25)  
+- ![Python](https://img.shields.io/badge/Python-61dafb?style=for-the-badge&logo=python&logoColor=white&height=25)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-61dafb?style=for-the-badge&logo=javascript&logoColor=black&height=25)  
+- ![Node.js](https://img.shields.io/badge/Node.js-61dafb?style=for-the-badge&logo=node.js&logoColor=white&height=25)  
+- ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black&height=25)  
+- ![HTML5](https://img.shields.io/badge/HTML5-61dafb?style=for-the-badge&logo=html5&logoColor=white&height=25)  
+- ![CSS3](https://img.shields.io/badge/CSS3-61dafb?style=for-the-badge&logo=css3&logoColor=white&height=25)  
+- ![MySQL](https://img.shields.io/badge/MySQL-61dafb?style=for-the-badge&logo=mysql&logoColor=white&height=25)  
 
 </div>
 
