@@ -1,37 +1,41 @@
-# Hi there 👋
-I am Yashraj Pawar and It's great to have you here!
+# 👋 Hello, I’m Yashraj Pawar
 
-Welcome to my GitHub profile!  
 
-I am a **curious learner and problem solver**, passionate about **backend development**, clean code, and scalable solutions.  
-I enjoy exploring **all areas of Computer Science** and continuously improving my skills.  
+I’m excited to have you here!   
 
-Currently diving into **System Design**, **efficient testing**, and creating projects that combine **learning and practical experience**.  
+Here’s a bit about me:  
 
-I believe in **continuous learning**, **sharing knowledge**, and building meaningful software that impacts users positively.  
+- I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
+- Passionate about **backend development** and writing **clean, efficient code**.  
+- Open to projects and gaining experience across all **Computer Science domains**.  
+- Currently exploring **System Design** and improving skills in **efficient testing**.  
+- I believe in **continuous learning**, **sharing knowledge**, and building software that makes a difference.  
+- Always experimenting with projects that combine **learning and practical experience**.  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-pawar)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YashrajPawar-dev)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashraj_pawar)  
-[![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashrajpawar.dev)  
+- [LinkedIn](https://www.linkedin.com/in/yashraj-pawar-dev/)  
+- [X / Twitter](https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09)  
+- [Instagram](https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==)  
+- [Website](#) *(In Progress)*  
 
 ---
 
 ## 🛠️ Tech & Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+
 </div>
 
 ---
@@ -40,8 +44,9 @@ I believe in **continuous learning**, **sharing knowledge**, and building meanin
 
 <div align="center">
 
-![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=dark&count_private=true&hide=prs)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=dark)
+![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=radical&count_private=true&hide=prs&title_color=61dafb&icon_color=61dafb&text_color=c0c0c0&bg_color=0d1117)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=radical&title_color=61dafb&text_color=c0c0c0&bg_color=0d1117)
 
 </div>
 
