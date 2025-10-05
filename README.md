@@ -1,4 +1,5 @@
-# 👋 Hello, I’m Yashraj Pawar
+# Hi there 👋
+I am Yashraj Pawar and It's great to have you here!
 
 Welcome to my GitHub profile!  
 
