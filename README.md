@@ -3,14 +3,13 @@ I am **Yashraj Pawar** and it's amazing to have you here!
 
 - I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
 - Passionate about **backend development** and writing **clean, efficient code**.  
-- Open to projects and gaining experience across all **Computer Science domains**.  
-- Currently exploring **System Design** and improving skills in **efficient testing**.  
+- Open to projects and gaining experience across all **Computer Science domains**.    
 - I believe in **continuous learning**, **sharing knowledge**, and building software that makes a difference.  
 - Always experimenting with projects that combine **learning and practical experience**.  
 
 ---
 
-## 🌐 Connect with Me
+## My Socials
 
 <div align="center">
 
