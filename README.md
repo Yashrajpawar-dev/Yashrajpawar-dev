@@ -14,10 +14,18 @@ I am **Yashraj Pawar** and it's amazing to have you here!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/yashraj-pawar-dev/)  
-[![X / Twitter](https://img.shields.io/badge/X-61dafb?style=for-the-badge&labelColor=0d1117)](https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09)  
-[![Instagram](https://img.shields.io/badge/Instagram-61dafb?style=for-the-badge&labelColor=0d1117)](https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==)  
-[![Website](https://img.shields.io/badge/Website-61dafb?style=for-the-badge&labelColor=0d1117)](#)
+<a href="https://www.linkedin.com/in/yashraj-pawar-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09">
+  <img src="https://img.shields.io/badge/X-61dafb?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==">
+  <img src="https://img.shields.io/badge/Instagram-61dafb?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Website-61dafb?style=for-the-badge&labelColor=0d1117" />
+</a>
 
 </div>
 
@@ -27,14 +35,14 @@ I am **Yashraj Pawar** and it's amazing to have you here!
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/Java-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![Python](https://img.shields.io/badge/Python-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![Node.js](https://img.shields.io/badge/Node.js-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![HTML5](https://img.shields.io/badge/HTML5-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![CSS3](https://img.shields.io/badge/CSS3-61dafb?style=for-the-badge&labelColor=0d1117)](#)  
-[![MySQL](https://img.shields.io/badge/MySQL-61dafb?style=for-the-badge&labelColor=0d1117)](#)
+<a href="#"><img src="https://img.shields.io/badge/Java-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
