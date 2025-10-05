@@ -1,10 +1,5 @@
-# 👋 Hello, I’m Yashraj Pawar
-
-
-I’m excited to have you here!   
-
-Here’s a bit about me:  
-
+Hi there 👋 
+I am Yashraj Pawar and it's amazing to have you here!
 - I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
 - Passionate about **backend development** and writing **clean, efficient code**.  
 - Open to projects and gaining experience across all **Computer Science domains**.  
