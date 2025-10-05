@@ -1,6 +1,7 @@
-Hi there 👋
+# 👋 Hi there, I’m Yashraj Pawar
 
-I am Yashraj Pawar and it's amazing to have you here!
+<sub>It's amazing to have you here!</sub>
+
 - I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
 - Passionate about **backend development** and writing **clean, efficient code**.  
 - Open to projects and gaining experience across all **Computer Science domains**.  
@@ -23,14 +24,14 @@ I am Yashraj Pawar and it's amazing to have you here!
 
 <div align="center">
 
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=222222&color=333333&height=25" />
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=222222&color=333333&height=18" />
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=222222&color=333333&height=18" />
 
 </div>
 
@@ -52,3 +53,4 @@ I am Yashraj Pawar and it's amazing to have you here!
 
 I enjoy **learning something new every day** and experimenting with ideas through projects.  
 **Code. Learn. Repeat.** 🚀
+
