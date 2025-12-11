@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Yashraj Pawar**, a passionate **backend developer** and full‑stack enthusiast building projects like **PeerLink** (P2P messaging) and **ParkEase** (smart parking system).
+I'm **Yashraj Pawar**, a passionate **backend developer** and full‑stack enthusiast 
 
 - Backend with **Node.js, Express, MySQL & REST APIs**
 - **Android development** with Java/Kotlin
