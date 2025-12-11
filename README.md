@@ -1,61 +1,72 @@
-# Hi there 👋
-I am **Yashraj Pawar** and it's amazing to have you here!
+# Hi there! 👋
 
-- I am a **curious learner** who loves taking on new challenges. (Why stop learning? Never!)  
-- Passionate about **backend development** and writing **clean, efficient code**.  
-- Open to projects and gaining experience across all **Computer Science domains**.    
-- I believe in **continuous learning**, **sharing knowledge**, and building software that makes a difference.  
-- Always experimenting with projects that combine **learning and practical experience**.  
+I'm **Yashraj Pawar**, a passionate **backend developer** and full-stack enthusiast building innovative projects like **PeerLink** (P2P messaging) and **ParkEase** (smart parking system).
+
+- **Backend Specialist** mastering Node.js, Express, MySQL & REST APIs
+- **Android Developer** creating real-world apps with Java/Kotlin
+- **Full-Stack Explorer** comfortable with React, JavaScript & modern web tech
+- **Continuous Learner** - always building, experimenting, and sharing knowledge
+- Open to **collaborations** across Computer Science domains 🚀
 
 ---
 
-## My Socials
+## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/yashraj-pawar-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-61dafb?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://x.com/Pawar9699?t=SaCdkT3PTtOXWSOieU9p8A&s=09">
-  <img src="https://img.shields.io/badge/X-61dafb?style=for-the-badge&labelColor=0d1117" />
+<a href="https://x.com/Pawar9699">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/_yashrajpawar_?igsh=MWh1ejljNHMzd3pvbw==">
-  <img src="https://img.shields.io/badge/Instagram-61dafb?style=for-the-badge&labelColor=0d1117" />
+<a href="https://www.instagram.com/_yashrajpawar_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Website-61dafb?style=for-the-badge&labelColor=0d1117" />
-</a>
-
 </div>
 
 ---
 
-## 🛠️ Tech & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Java-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-61dafb?style=for-the-badge&labelColor=0d1117" /></a>
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
 <div align="center">
-
-![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=radical&count_private=true&hide=prs&title_color=61dafb&icon_color=61dafb&text_color=c0c0c0&bg_color=0d1117)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=radical&title_color=61dafb&text_color=c0c0c0&bg_color=0d1117)
-
+<table>
+<tr>
+<td><b>📱 PeerLink</b></td>
+<td><b>🚗 ParkEase</b></td>
+</tr>
+<tr>
+<td>Peer-to-peer Android messaging app<br>
+<img src="https://img.shields.io/badge/Android-Java-brightgreen" /></td>
+<td>Smart parking management system<br>
+<img src="https://img.shields.io/badge/Node.js-MySQL-blue" /></td>
+</tr>
+</table>
 </div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=dark&count_private=true&hide=prs&title_color=61dafb&icon_color=61dafb&text_color=c0c0c0&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=dark&title_color=61dafb&text_color=c0c0c0&bg_color=0d1117" width="48%" />
+</div>
+
 
 ---
 
