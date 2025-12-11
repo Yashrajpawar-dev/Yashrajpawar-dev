@@ -46,10 +46,9 @@ I'm **Yashraj Pawar**, a passionate **backend developer** and full-stack enthusi
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=radical&count_private=true&hide=prs&title_color=61dafb&icon_color=61dafb&text_color=c0c0c0&bg_color=0d1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=radical&title_color=61dafb&text_color=c0c0c0&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=radical" width="48%"/>
 </div>
 
 ---
