@@ -1,18 +1,17 @@
-<h1 align="center">Heyo! What's up? 👋</h1>
+# Heyo! What's up? 👋
+## I'm Yashraj Pawar — A passionate Backend Developer & Full‑Stack Enthusiast.
 
-<h3 align="center">I'm Yashraj Pawar — A passionate Backend Developer & Full‑Stack Enthusiast.</h3>
-
-<div align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/yashraj-pawar-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Pawar9699">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/_yashrajpawar_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" alt="Instagram" />
   </a>
-</div>
+</p>
 
 <br/>
 
@@ -26,10 +25,9 @@
 
 ### 🛠️ Tech Arsenal
 
-<div align="center">
-  <!-- This generates beautiful matching icons automatically -->
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,nodejs,react,mysql,html,css,git,android" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,nodejs,react,mysql,html,css,git,android" alt="My Tech Stack" />
   </a>
 </div>
 
@@ -37,7 +35,7 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
+<div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&bg_color=0D1117" 
     alt="Yashraj's GitHub Stats" 
