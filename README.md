@@ -52,9 +52,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
