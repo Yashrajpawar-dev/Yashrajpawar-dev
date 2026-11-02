@@ -1,58 +1,68 @@
-<div align="center">
+ <div align="center">
 
-# Heyo! What's up? 👋
-## I'm Yashraj Pawar — A passionate Backend Developer & Full‑Stack Enthusiast.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yashraj-pawar-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Pawar9699">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.instagram.com/_yashrajpawar_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" alt="Instagram" />
-  </a>
-</p>
-
-<br/>
-
-### 👨‍💻 About Me
-⚙️ **Backend Engineering:** Building robust systems using **Node.js, Express, MySQL & REST APIs**  
-📱 **Mobile Development:** Building native experiences with **Java & Kotlin**  
-🌐 **Web Fundamentals:** Crafting web apps using **React & JavaScript**  
-🚀 Always learning, experimenting, and open to collaborations.
-
----
-
-### 🛠️ Tech Arsenal
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,nodejs,react,mysql,html,css,git,android" alt="My Tech Stack" />
-</a>
-
----
-
-### 📊 GitHub Activity
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&bg_color=0D1117" 
-  alt="Yashraj's GitHub Stats" 
-  width="48%" 
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" 
-  alt="Top Languages" 
-  width="48%" 
-/>
-
----
-
-### ⚡ Fun Fact
-
-I enjoy **learning something new every day** and experimenting with ideas through projects.<br/> If I'm not writing code, I'm probably brainstorming the next big architectural idea.
-
-**Code. Learn. Repeat.** 🚀
+# Yashraj Pawar
+### Backend Developer | Full-Stack Developer
 
 </div>
 
+## About Me
+
+- Computer Engineering student interested in software development.
+- Working with backend development, mobile applications, and databases.
+- Learning new technologies and building projects.
+
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,dart" alt="C++, Java, Dart" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" />
+</p>
+
+**Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" alt="Flutter, Firebase" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="MySQL, Firebase" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Git, GitHub, VS Code, Android Studio" />
+</p>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+## Connect With Me
+
+- LinkedIn: [yashraj-pawar-dev](https://www.linkedin.com/in/yashraj-pawar-dev/)
+- GitHub: [Yashrajpawar-dev](https://github.com/Yashrajpawar-dev)
+- X: [@Pawar9699](https://x.com/Pawar9699)
+
+---
+
+<div align="center">
+
+*Building. Learning. Improving.*
+
+</div>
