@@ -16,13 +16,13 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,dart" alt="C++, Java, Dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,dart" alt="C++, Java, Python, Dart" />
 </p>
 
 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" />
 </p>
 
 **Mobile Development**
@@ -34,8 +34,13 @@
 **Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="MySQL, Firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="MySQL, SQLite, Firebase" />
 </p>
+
+**AI & Other Technologies**
+
+- Regular Expressions (Regex)
+- Large Language Models (LLMs)
 
 **Tools**
 
