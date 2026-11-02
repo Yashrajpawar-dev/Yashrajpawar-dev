@@ -37,11 +37,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="MySQL, SQLite, Firebase" />
 </p>
 
-**AI & Other Technologies**
-
-- Regular Expressions (Regex)
-- Large Language Models (LLMs)
-
 **Tools**
 
 <p>
