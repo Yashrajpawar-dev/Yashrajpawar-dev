@@ -47,16 +47,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashrajpawar-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashrajpawar-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Yashrajpawar-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashrajpawar-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
 </div>
-
 ## Connect With Me
 
 - LinkedIn: [yashraj-pawar-dev](https://www.linkedin.com/in/yashraj-pawar-dev/)
