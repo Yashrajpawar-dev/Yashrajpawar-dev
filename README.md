@@ -56,6 +56,7 @@
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashrajpawar-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
 </div>
+
 ## Connect With Me
 
 - LinkedIn: [yashraj-pawar-dev](https://www.linkedin.com/in/yashraj-pawar-dev/)
